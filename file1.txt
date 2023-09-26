@@ -1,0 +1,1 @@
+This is a first file created using command "notepad file1.txt"
